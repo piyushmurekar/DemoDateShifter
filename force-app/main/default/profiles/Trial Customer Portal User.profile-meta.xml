@@ -5,10 +5,7 @@
         <visibility>ALL</visibility>
     </categoryGroupVisibilities>
     <classAccesses>
-        <apexClass>AccountContactsController</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
+
         <apexClass>AccountHandler</apexClass>
         <enabled>false</enabled>
     </classAccesses>
